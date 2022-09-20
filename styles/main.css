@@ -17,12 +17,12 @@ header h1{
 header h2{
     font-size: 130%;
     color: #800000;
-    text-indent: 30px;
+    text-indent:30px;
      
 }
 img{
     float: left;
-    margin-right: 1em;
+    margin-right:1em;
 }
 
 .shadow{
