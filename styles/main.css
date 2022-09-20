@@ -20,8 +20,9 @@ header h2{
     text-indent: 30px;
      
 }
-header img{
+img{
     float: left;
+    margin-right: 1em;
 }
 
 .shadow{
