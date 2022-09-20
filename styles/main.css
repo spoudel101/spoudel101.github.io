@@ -27,6 +27,17 @@ header img{
 .shadow{
     text-shadow: 2px 2px 2px rgb(128, 0, 0)
 }
-
+main{
+    clear: left;
+}
+main h3{
+    font-size:105%;
+}
+main nav{
+    font-size: 105%;
+}
+#list{
+    line-height: 1.5em;
+}
 
     
