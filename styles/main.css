@@ -31,9 +31,9 @@ img{
 main{
     clear: left;
 }
-main h2{
-    font-size:105%;
+main h3{
     margin-top: 3em;
+    font-size:105%;
 }
 
 #list{
