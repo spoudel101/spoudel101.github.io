@@ -20,6 +20,12 @@ article
     clear: left;
     padding-top: 1em;
 }
+aside{
+    width: 20%;
+    float: right;
+    background-color: #ffebc6;
+    padding: 0.1em 1em 1em;
+}
 
 ol {list-style-type:upper-roman;}
 ul {list-style-type:square;}
