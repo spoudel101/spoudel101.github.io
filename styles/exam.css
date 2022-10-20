@@ -26,6 +26,10 @@ article p::first-letter {
     font-style: italic;
     color: lightgreen;
 }
+footer p.copyright{
+    text-align: center;
+    font-size: 80%;
+}
 aside{
     width: 20%;
     float: right;
