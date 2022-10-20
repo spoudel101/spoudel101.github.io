@@ -9,6 +9,7 @@
     background-color:blue;
     color:white;
     font-weight: bold;
+    border-bottom: 2px solid blue;
     border-right: 2px solid white;
 
  }
