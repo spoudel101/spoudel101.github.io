@@ -3,7 +3,7 @@
 #nav_menu ul li a{
     text-align: center;
     display:block;
-    width:100%;
+    width:175px;
     padding: 1em 14px;
     text-decoration:none;
     background-color:blue;
@@ -37,7 +37,7 @@
         float: left;
         width: 100%;
         clear: left;
-        margin-top: 20px;
+
         margin-left: 2em;
     
     }
