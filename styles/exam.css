@@ -20,15 +20,18 @@
         margin: 2.5em;
     }
 
-article 
-{
-    clear: left;
-    padding-top: 1em;
-}
-.navbar
-{
-    height: 100px;
-}
+    article 
+    {
+        width: 70%;
+        float: left;
+        clear:left;
+        column-count: 2;
+        column-rule: 2px dotted maroon;
+        column-gap: 2em; 
+        margin-left: 2em;
+    
+    }
+
 
 article p::first-letter {
     font-size: 3em ;
