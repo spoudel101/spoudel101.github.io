@@ -15,6 +15,11 @@
   #nav_menu ul li a.lastitem {border-right:none;}
     #nav_menu ul li a.current { color:yellow;}
 
+    img{
+        float: left;
+        margin: 2.5em;
+    }
+
 article 
 {
     clear: left;
