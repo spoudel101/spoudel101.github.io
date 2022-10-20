@@ -32,6 +32,11 @@
     
     }
 
+    research 
+    {
+        padding-bottom: 50px;
+    
+    }
 
 article p::first-letter {
     font-size: 3em ;
