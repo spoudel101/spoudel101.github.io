@@ -57,7 +57,7 @@ footer p.copyright{
     text-align: center;
     font-size: 80%;
 }
-aside{
+aside.fixed{
     width: 20%;
     float: right;
     background-color: rgb(101, 101, 237);
