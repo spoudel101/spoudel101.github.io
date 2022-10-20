@@ -4,7 +4,6 @@
     text-align: center;
     display:block;
     width:175px;
-    height: 200px;
     padding: 1em 0;
     text-decoration:none;
     background-color:blue;
@@ -26,6 +25,11 @@ article
     clear: left;
     padding-top: 1em;
 }
+.navbar
+{
+    height: 100px;
+}
+
 article p::first-letter {
     font-size: 3em ;
     font-weight: bold;
