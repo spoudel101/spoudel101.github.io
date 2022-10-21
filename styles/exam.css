@@ -60,7 +60,7 @@ footer p.copyright{
 }
 aside.fixed
 {
-    width: 20%;
+    width: auto;
     float: right;
     background-color: rgb(16, 132, 241);
     padding: 0.1em 1em 1em;
