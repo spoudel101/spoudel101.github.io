@@ -10,10 +10,12 @@
     color:white;
     font-weight: bold;
     border-right: 2px solid white;
-    clear:both;
-    border-bottom: 2px solid blue;
+    
 
  }
+ #top
+ {clear:both;
+    border-bottom: 2px solid blue;}
  
 
  
