@@ -26,6 +26,13 @@ header h1{
     text-indent: 30px;
     
 }
+#top
+ {
+    margin-top: 7em;
+    clear:both;
+    border-top: 2px solid blue;
+}
+ 
 header h2{
     font-size: 130%;
     color: #800000;
