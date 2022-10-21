@@ -58,11 +58,13 @@ footer p.copyright{
     text-align: center;
     font-size: 80%;
 }
-aside.fixed{
+aside.fixed
+{
     width: 20%;
     float: right;
     background-color: rgb(16, 132, 241);
     padding: 0.1em 1em 1em;
+    position: fixed;
 }
 
 ol {list-style-type:upper-roman;}
