@@ -40,6 +40,15 @@
         margin: 2.5em;
     }
 
+    research 
+    {
+        width: 70%;
+        float: left;
+        clear:left;
+        margin-left: 2em;
+    
+    }
+
     article 
     {
         width: 70%;
