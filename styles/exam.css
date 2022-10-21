@@ -48,15 +48,7 @@
     
     }
 
-    research 
-    {
-        float: left;
-        width: 100%;
-        clear: left;
-
-        margin-left: 2em;
     
-    }
 
 article p::first-letter {
     font-size: 3em ;
