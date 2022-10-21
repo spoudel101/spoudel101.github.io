@@ -61,10 +61,12 @@ footer p.copyright{
 aside.fixed
 {
     width: auto;
-    float: right;
-    background-color: rgb(16, 132, 241);
-    padding: 0.1em 1em 1em;
     position: fixed;
+    bottom: 35%; 
+    right: 0; 
+    border: 3px solid darkgreen;
+    background-color: lightgreen;
+    padding: 2em;
 }
 
 ol {list-style-type:upper-roman;}
