@@ -13,11 +13,12 @@
     border-bottom: 2px solid blue;
 
  }
- #header{
+ header
+ {
     clear: both;
     border-top: 2px solid blue;
 }
- }
+ 
   #nav_menu ul li a.lastitem {border-right:none;}
     #nav_menu ul li a.current { color:yellow;}
 
