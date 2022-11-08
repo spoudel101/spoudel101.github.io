@@ -34,4 +34,18 @@ html, body {
     table.second thead tr:first-child{     
         border-bottom: 2px solid purple;
     }
-        
+
+    
+
+
+
+    @media only screen and (max-width: 425px) {
+        th, td {
+            display: block;
+        }
+        thead, td.number {
+            display: none;
+            padding: 0;
+        }    
+    }
+    
