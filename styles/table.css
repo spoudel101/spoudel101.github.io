@@ -35,13 +35,9 @@ html, body {
         border-bottom: 2px solid purple;
     }
 
-    table.third
-    {
-        border-collapse: collapse;
-        border: 2px solid green;
-    }
+    
     table.third th{
-        background-color: green;
+        background-color: rgb(56, 233, 56);
     }
     
 
