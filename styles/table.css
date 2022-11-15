@@ -37,11 +37,12 @@ html, body {
 
     
     table.third {    
-        border-collapse: collapse; 
-        background-color: 2px solid seagreen;   
+        border-collapse: collapse;  
         caption-side: top;
     }
-    
+    table.second th {
+        background-color: seagreen;
+    }
     
     table.third th, table.third td {
         padding: 0.7em;  
