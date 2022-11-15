@@ -43,7 +43,10 @@ html, body {
         
     }
     
-    table.third th {
+    table.third th 
+    {
+        padding: 0.7em;  
+        vertical-align: middle;
         background-color: rgb(189, 250, 75);
     }
     table.third th, table.third td {
@@ -51,7 +54,8 @@ html, body {
         vertical-align: middle;
         
     }
-    table.third thead tr:first-child{     
+    table.third thead tr:first-child
+    {     
         border-bottom: 2px solid red;
     }
 
