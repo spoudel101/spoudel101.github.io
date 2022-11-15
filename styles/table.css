@@ -37,13 +37,12 @@ html, body {
 
     
     table.third {    
-        border-collapse: collapse;  
+        border-collapse: collapse;   
         caption-side: top;
     }
-    table.second th {
-        background-color: seagreen;
+    table.third th {
+        background-color: rgb(189, 250, 75);
     }
-    
     table.third th, table.third td {
         padding: 0.7em;  
         vertical-align: middle;
