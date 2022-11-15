@@ -38,19 +38,18 @@ html, body {
     
     table.third {    
         border-collapse: collapse; 
-        border: 2px solid purple;   
+        border: 2px solid seagreen;   
         caption-side: top;
     }
-    table.third th {
-        background-color: salmon;
-    }
+    
+    
     table.third th, table.third td {
         padding: 0.7em;  
         vertical-align: middle;
-        border: 2px solid purple;
+        
     }
     table.third thead tr:first-child{     
-        border-bottom: 2px solid purple;
+        border-bottom: 2px solid red;
     }
 
     
