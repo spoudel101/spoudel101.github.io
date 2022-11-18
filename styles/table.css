@@ -38,9 +38,9 @@ html, body {
     
     table.third caption {  
         
-          
+        border-collapse: collapse; 
         caption-side: top;
-        
+        background: #F00;
     }
     
     table.third th 
