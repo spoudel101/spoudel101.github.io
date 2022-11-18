@@ -36,7 +36,8 @@ html, body {
     }
 
     /*-----------------------------------------------------------*/
-    table.third caption {  
+
+     table.third caption {  
         
         border-collapse: collapse; 
         caption-side: top;
@@ -45,7 +46,6 @@ html, body {
     
     table.third th 
     {
-        border-collapse: collapse;
         padding: 0.7em;  
         vertical-align: middle;
         background-color: rgb(189, 250, 75);
