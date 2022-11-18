@@ -67,6 +67,9 @@ html, body {
         border: 2px solid purple;   
         caption-side: bottom;
     }
+    table.third caption{
+        background: rgb(189, 250, 75);
+    }
     table.third th {
         background-color: salmon;
     }
