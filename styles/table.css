@@ -39,7 +39,7 @@ html, body {
 
     table.third caption {  
         
-        border-collapse: collapse; 
+        
         caption-side: top;
         background: rgb(189, 250, 75);
     }
