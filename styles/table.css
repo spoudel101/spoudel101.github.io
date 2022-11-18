@@ -68,8 +68,10 @@ html, body {
        
     }
     table.third caption{
+        border-top: 2px solid purple;
         caption-side: top;
         background: rgb(189, 250, 75);
+        border-bottom: 2px solid purple;
     }
     table.third th {
         background-color: rgb(189, 250, 75);
