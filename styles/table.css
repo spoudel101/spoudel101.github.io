@@ -69,13 +69,13 @@ html, body {
     }
     table.third caption{
         border-top: 2px solid purple;
-        padding: 0.7em;
+        
         caption-side: top;
         background: rgb(189, 250, 75);
         border-bottom: 2px solid purple;
     }
     table.third th {
-        padding: 0.7em;
+        
         background-color: rgb(189, 250, 75);
         border-bottom: 2px solid purple;
     }
