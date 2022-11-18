@@ -68,6 +68,7 @@ html, body {
         caption-side: bottom;
     }
     table.third caption{
+        caption-side: top;
         background: rgb(189, 250, 75);
     }
     table.third th {
