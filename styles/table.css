@@ -62,20 +62,20 @@ html, body {
     */
     /*-----------------------------------------------------------*/
     
-    table.second {    
+    table.third {    
         border-collapse: collapse; 
         border: 2px solid purple;   
         caption-side: bottom;
     }
-    table.second th {
+    table.third th {
         background-color: salmon;
     }
-    table.second th, table.second td {
+    table.second th, table.third td {
         padding: 0.7em;  
         vertical-align: middle;
         border: 2px solid purple;
     }
-    table.second thead tr:first-child{     
+    table.third thead tr:first-child{     
         border-bottom: 2px solid purple;
     }
 
