@@ -64,8 +64,8 @@ html, body {
     
     table.third {    
         border-collapse: collapse; 
-        border: 2px solid purple;   
-        caption-side: bottom;
+          
+       
     }
     table.third caption{
         caption-side: top;
