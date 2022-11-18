@@ -64,6 +64,7 @@ html, body {
     
     table.third {    
         border-collapse: collapse; 
+        border-bottom: 2px solid purple;
           
        
     }
