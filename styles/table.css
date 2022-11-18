@@ -75,6 +75,7 @@ html, body {
     }
     table.third th {
         background-color: rgb(189, 250, 75);
+        border-bottom: 2px solid purple;
     }
     table.second th, table.third td {
         padding: 0.7em;  
